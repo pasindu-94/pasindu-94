@@ -195,7 +195,7 @@ fun_fact: "Started with Arduino robots, now orchestrating 250+ AI agents 🤖"
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pasindu-94&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pasindu-94&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pasindu-94&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook" />
 </div>
 
 <div align="center">
