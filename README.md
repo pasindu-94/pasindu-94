@@ -194,8 +194,8 @@ fun_fact: "Started with Arduino robots, now orchestrating 250+ AI agents 🤖"
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pasindu-94&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu-94&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pasindu-94&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pasindu-94&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
@@ -212,16 +212,16 @@ fun_fact: "Started with Arduino robots, now orchestrating 250+ AI agents 🤖"
 
 <div align="center">
   <a href="https://github.com/pasindu-94/rag-implementation-aidsl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindu-94&repo=rag-implementation-aidsl&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pasindu-94&repo=rag-implementation-aidsl&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/pasindu-94/gpTutor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindu-94&repo=gpTutor&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pasindu-94&repo=gpTutor&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/pasindu-94/solar-power-prediction-multi-inverter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindu-94&repo=solar-power-prediction-multi-inverter&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pasindu-94&repo=solar-power-prediction-multi-inverter&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/pasindu-94/line-follower">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindu-94&repo=line-follower&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pasindu-94&repo=line-follower&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   </a>
 </div>
 
