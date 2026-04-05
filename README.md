@@ -208,25 +208,6 @@ fun_fact: "Started with Arduino robots, now orchestrating 250+ AI agents 🤖"
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" /> &nbsp;Featured Projects
-
-<div align="center">
-  <a href="https://github.com/pasindu-94/rag-implementation-aidsl">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pasindu-94&repo=rag-implementation-aidsl&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/pasindu-94/gpTutor">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pasindu-94&repo=gpTutor&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/pasindu-94/solar-power-prediction-multi-inverter">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pasindu-94&repo=solar-power-prediction-multi-inverter&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/pasindu-94/line-follower">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pasindu-94&repo=line-follower&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-</div>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28" /> &nbsp;Career Journey
 
 ```mermaid
